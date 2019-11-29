@@ -1,3 +1,3 @@
-# flo
+# fantasticfloralshop
 
-A website for the fictitious flower shop, Flo's Floristry.
+A website for the fictitious business, Fantastic Floral Shop.
